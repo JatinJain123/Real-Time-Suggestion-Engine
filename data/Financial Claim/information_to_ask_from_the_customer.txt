@@ -1,0 +1,6 @@
+Policy number and claimant’s details.
+Nature of the financial loss (e.g., accident, theft, damage).
+Date and location of the incident.
+Whether a police report has been filed (if applicable).
+Bank details for claim settlement.
+Supporting documents such as bills, receipts, or assessment reports.

@@ -1,0 +1,6 @@
+Policy number and details of the insured person.
+Type of treatment received (planned or emergency).
+Hospital details (network or non-network).
+Date of admission and expected discharge date.
+Medical bills and reports related to the treatment.
+Whether they have informed the insurer about the claim.
